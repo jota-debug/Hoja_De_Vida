@@ -1,2 +1,0 @@
-# Hoja_De_Vida
-HTML, CSS, JAVASCRIPT
